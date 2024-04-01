@@ -1,19 +1,19 @@
 {
-    "name": "com.goldsprite.my_input_system",
-    "displayName": "MyInputSystem",
-    "description": "自定义输入系统!",
-    "version": "0.1.1",
-    "unity": "2021.3",
-    "license": "Apache-2.0", 
-    "author": "shikeik",
-    "dependencies": {
-      "com.unity.inputsystem": "1.5.1"
-    }, 
-    "samples": [
-      {
-          "displayName": "Example Scenes",
-          "description": "Sample scenes .",
-          "path": "Samples~/"
-      }
+  "name": "com.goldsprite.unity_plugins.my_input_system",
+  "displayName": "UnityPlugins_MyInputSystem",
+  "description": "自定义输入系统!",
+  "version": "0.1.1",
+  "unity": "2021.3",
+  "license": "Apache-2.0",
+  "author": "shikeik",
+  "dependencies": {
+    "com.unity.inputsystem": "1.5.1"
+  },
+  "samples": [
+    {
+      "displayName": "Example Scenes",
+      "description": "Sample scenes .",
+      "path": "Samples~/"
+    }
   ]
-  }
+}
