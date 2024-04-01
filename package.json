@@ -1,0 +1,19 @@
+{
+  "name": "com.goldsprite.unity_plugins.day_night_cycle_system",
+  "displayName": "UnityPlugins_DayNightCycleSystem",
+  "description": "昼夜循环系统!",
+  "version": "0.2.1",
+  "unity": "2018.3",
+  "license": "Apache-2.0",
+  "author": "shikeik",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "12.1.10"
+  },
+  "samples": [
+    {
+      "displayName": "Example Scenes",
+      "description": "Sample scenes .",
+      "path": "Samples~/"
+    }
+  ]
+}
