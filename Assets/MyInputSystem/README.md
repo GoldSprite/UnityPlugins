@@ -1,3 +1,9 @@
+# UPM导入链接
+- 本体
+```
+  "com.goldsprite.unity_plugins.my_input_system": "https://github.com/GoldSprite/UnityPlugins.git#MyInputSystem_upm",
+```
+
 # MyInputSystem V0.1.0
 
 ## 简介
