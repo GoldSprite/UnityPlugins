@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c2da25e616543e346a7b5aebc9f51c9a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 8404be70184654265930450def6a9037, type: 3}
+  generateWrapperCode: 1
+  wrapperCodePath: 
+  wrapperClassName: 
+  wrapperCodeNamespace: GoldSprite.UnityPlugins.MyInputSystem
